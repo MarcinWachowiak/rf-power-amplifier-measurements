@@ -14,7 +14,7 @@ Anaconda set up:
     ```
 3. Install packages:
     ```
-    conda install numpy, matplotlib, libiio, libsmu, pyadi-iio, ipykernel
+    conda install numpy matplotlib libiio libsmu pyadi-iio ipykernel
     ```
     or
     ```
